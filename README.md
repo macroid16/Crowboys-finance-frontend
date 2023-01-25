@@ -1,9 +1,6 @@
-# Zaigar Finance Frontend
+# Crowboys Finance Frontend
 
-https://zaigar.finance
-
-
-This project contains the main features of the zaigar finance application.
+This project contains the main features of the Crowboys finance application.
 
 Forked from Pancake Swap Projects.
 
